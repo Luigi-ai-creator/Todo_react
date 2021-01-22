@@ -1,7 +1,6 @@
 import './App.css';
 import ButtonPlus from './Components/ButtonPlus/ButtonPlus';
 import InputMain from './Components/InputMain/InputMain';
-import ListToDo from './Components/ListToDo/ListToDo';
 
 function App() {
   return (
